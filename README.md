@@ -1,1 +1,0 @@
-Source code for my website, [zachrouhana.com](https://zachrouhana.com/)
